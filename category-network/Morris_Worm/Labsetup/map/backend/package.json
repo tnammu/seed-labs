@@ -9,7 +9,7 @@
   "author": "nat <nat@nat.moe>",
   "license": "MIT",
   "dependencies": {
-    "@types/dockerode": "^3.2.2",
+    "@types/dockerode": "^3.3.47",
     "@types/express": "^4.17.11",
     "@types/express-ws": "^3.0.0",
     "@types/node": "^14.10.1",
